@@ -6,6 +6,6 @@
 
 Please carefully find my link to the website: https://github.com/Bailey198/Static-Website
 
-And also link to my GitHub page: https://github.com/riczfe/Assignment_1_Responsive_website
+And also link to my GitHub page: 
 
 Throughout this Web Programming Assignment, I have used 100% of HTML and CSS to create a perfect layout and design for this webpage
